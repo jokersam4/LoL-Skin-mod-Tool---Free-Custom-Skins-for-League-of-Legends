@@ -6,7 +6,7 @@ Welcome to LoL Skin Tool, your ultimate solution for customizing skins in League
 
 🚀 Why Choose LoL Skin Tool?
 
-Free and Safe: 100% free tool with no hidden charges.
+100% safe
 
 Easy to Use: One-click skin injection for seamless gameplay.
 
