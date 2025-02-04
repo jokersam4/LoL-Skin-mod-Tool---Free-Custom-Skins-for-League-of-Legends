@@ -1,8 +1,8 @@
-# LoL-Skin-mod-Tool---Free-Custom-Skins-for-League-of-Legends
-Free and easy-to-use League of Legends custom skin tool with one-click skin injection and a wide skin library. Download now!
+# LoL-Skin-mod-Tool---Custom-Skins-for-League-of-Legends
+easy-to-use League of Legends custom skin tool with one-click skin injection and a wide skin library. Download now!
 
 
-Welcome to LoL Skin Tool, your ultimate solution for customizing skins in League of Legends. Our tool allows players to enjoy a wide variety of custom skins for free without compromising gameplay fairness.
+Welcome to LoL Skin Tool, your ultimate solution for customizing skins in League of Legends. Our tool allows players to enjoy a wide variety of custom skins without compromising gameplay fairness.
 
 🚀 Why Choose LoL Skin Tool?
 
@@ -62,7 +62,7 @@ Found a bug? Have a suggestion? Open an issue or contact us via Discord.
 
 Help keep this project free and available for everyone.
 
-Donate Here to support development.
+
 
 ⚠️ Important Notice
 
