@@ -22,7 +22,7 @@ Get the latest version now and start customizing your League of Legends experien
 
 📖 How to Use
 
-Download the tool: Get it here.
+Download the tool: Get it here : https://testpilot0.gumroad.com/l/fhmrir
 
 Launch the tool: Open the application.
 
