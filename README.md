@@ -4,6 +4,14 @@ easy-to-use League of Legends custom skin tool with one-click skin injection and
 
 Welcome to LoL Skin Tool, your ultimate solution for customizing skins in League of Legends. Our tool allows players to enjoy a wide variety of custom skins without compromising gameplay fairness.
 
+
+The purpose of this project is not to undermine the custom skin scene within League of Legends. Instead, we aim to provide a solution for players who have been unable to afford skins since the introduction of Vanguard. Previously, these players relied on tools like LolSkin or R3nzSkin, which are no longer viable.
+
+Using custom skins does not confer any competitive advantage, as they are only visible to the player utilizing them.
+
+The creator of this repository believes that with the implementation of predatory practices in skin sales — exemplified by exclusive skins like the Faker skin, which cost as much as three months' wages in some regions — Riot has restricted access to certain content for a significant portion of its player base.
+
+
 🚀 Why Choose LoL Skin Tool?
 
 100% safe
